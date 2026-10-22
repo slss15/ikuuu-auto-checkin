@@ -1,0 +1,11 @@
+{
+  "name": "ikuuu-auto-checkin",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "imapflow": "^1.0.0",
+    "mailparser": "^3.7.0",
+    "nodemailer": "^7.0.0"
+  }
+}
